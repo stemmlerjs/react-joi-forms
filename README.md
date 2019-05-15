@@ -1,6 +1,8 @@
 # Form Validation
 
->> A way to do clean form validation and validate an entire model or attributes on that model!
+> A way to do clean form validation and validate an entire model or attributes on that model! This small lib is currently how I do form validation onBlur and onChange with React + Redux applications.
+
+_This isn't quite ready yet! Just FYI, but feel free to have a peek_
 
 ## Creating a new form!
 
@@ -39,3 +41,7 @@ To validate a field using the Joi Validator, create a Joi validation chain on th
 #### Custom Validator
 
 We can also create our own custom validator. Custom validators need to implement the ```ICustomValidator``` interface.# react-joi-forms
+
+## Example
+
+Coming soon
